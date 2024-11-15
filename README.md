@@ -50,6 +50,3 @@ EDX
 GIT
 YOUTUBE
 
-## License
-
-This project is licensed under the [CC-BY-3.0] License - see the LICENSE.md file for details
