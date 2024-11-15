@@ -2,7 +2,7 @@ Project title "Haunted office"
 By Shawn D Neuman
 Video link:
 EDX: s-neuman
-GIT:
+GIT: https://github.com/shawnn10
 CITY: San Antonio
 COUNTRY: USA
 DATE: 11/15/2024
