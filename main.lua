@@ -1,4 +1,5 @@
 -- main.lua
+--gpt helped me error check main but honastly it mostly just help catch spelling errors
 local player = require("player")
 local map = require("map")
 local camera = require("camera")

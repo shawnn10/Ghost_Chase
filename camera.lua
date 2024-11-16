@@ -1,4 +1,5 @@
--- camera.lua
+-- camera.lu
+-- this code i found online in the love2d forum pages
 local camera = {}
 
 -- Camera position

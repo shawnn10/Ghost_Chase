@@ -51,6 +51,7 @@ function player.update(dt, map, ghost)
         moveY = -player.speed * dt
     end
 
+    --gpt gpt helped with x and y collision explaining why it made certain choices
     -- Check for collision in the x-direction
     local newX = player.x + moveX
     local canMoveX = true
@@ -80,6 +81,7 @@ function player.update(dt, map, ghost)
     -- Adjust overlay rotation speed and scale based on distance to ghost
     local dx = player.x - ghost.x
     local dy = player.y - ghost.y
+    --gpt
     local distance = math.sqrt(dx * dx + dy * dy)
 
     -- Set limits for min and max scaling effects
@@ -89,6 +91,7 @@ function player.update(dt, map, ghost)
     local maxRotationSpeed = 1
 
     -- Map distance to scale and rotation speed
+    --gpt
     overlayScale = math.max(minScale, maxScale - (maxScale - minScale) * (1 / (distance / 100)))
     overlayRotationSpeed = math.min(maxRotationSpeed, baseOverlayRotationSpeed + (maxRotationSpeed - baseOverlayRotationSpeed) * (1 / (distance / 100)))
 
@@ -111,6 +114,7 @@ function player.draw()
             love.graphics.print("You Win!", player.x - 20, player.y - 20)
         else
             -- Draw player as usual
+            --gpt tried 20 times to get this right and failed every time. i included for postarity but wow it was bad.
             love.graphics.draw(overlayImage, player.x + 25, player.y + 25, (overlayRotation * 1), overlayScale, overlayScale, originX, originY)
             love.graphics.draw(overlayImage_two, player.x + 25, player.y + 25, (overlayRotation * -1), overlayScale, overlayScale, originX, originY)
             love.graphics.rectangle("fill", player.x, player.y, player.width, player.height)

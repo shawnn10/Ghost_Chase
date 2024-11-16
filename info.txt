@@ -6,3 +6,7 @@ GIT: https://github.com/shawnn10
 CITY: San Antonio
 COUNTRY: USA
 DATE: 11/15/2024
+
+i used chat gpt for several things in the project per class guidlines. i will make each use with --gpt 
+ill be the first to admit its an okay tool but it doesnt realy know what its doing most the time. so even if you see --gpt
+i probably spent more time correcting code than asking for help beacuse it was consistently inconsistant 

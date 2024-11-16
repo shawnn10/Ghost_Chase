@@ -1,4 +1,5 @@
 -- door.lua
+--gpt help with door and from this i made keys and boxes
 local door = {}
 local utils = require("utils")  -- Require the utils module for collision detection
 

@@ -39,14 +39,14 @@ read both install paths so you pick the one right for you. RAW lets you see the 
 
 ## Help
 
-Video demo and tutorial:
+Video demo and tutorial: [https://youtu.be/G2hDwAzu8cs]
 
 ## Authors
 
 Contributors names and contact info
 
 1. Shawn D Neuman
-EDX
-GIT
-YOUTUBE
+EDX s-neuman
+GIT [https://github.com/shawnn10/Ghost_Chase]
+YOUTUBE [https://youtu.be/G2hDwAzu8cs]
 
