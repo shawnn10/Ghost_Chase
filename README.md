@@ -53,7 +53,7 @@ If you encounter any issues, refer to the video tutorial linked below.
 
 This method is faster and more convenient but requires you to trust the precompiled executable.
 
-Download the compiled game:
+Download the compiled game from my website [[addercustoms.com](https://sites.google.com/addercustoms.com/home)]:
 Visit the game’s website or GitHub repository to download the ZIP file containing the compiled game.
 Extract and run:
 Unzip the downloaded file.
@@ -93,3 +93,4 @@ YouTube: [https://youtu.be/G2hDwAzu8cs]
 If you have any questions, suggestions, or feedback, feel free to reach out through the provided links!
 
 Thank you for playing "Ghost Chase." Can you escape before the ghost catches you? Best of luck, and enjoy the thrill!
+please also check out my other project from CS50p Get Motivated.
