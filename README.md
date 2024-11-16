@@ -5,7 +5,7 @@ A love2d Horror Block Game
 
 ## Description
 
-This is a project for my cs50x class and my first game in lua or love2d. it was a fantastic learning experiance. the game is just a single level where you will be chased by a ghostly blue block. the idea is to collect the 4 keys before the ghost touches you ^_^. a few things that i added to the game to sipce things up were overlays that add a sense of drama and keys that axctully function as intended so they can be used to open doors
+This is a project for my cs50x class and my first game in lua or love2d. it was a fantastic learning experiance. the game is just a single level where you will be chased by a ghostly blue block. the idea is to collect the 4 keys before the ghost touches you ^_^. a few things that i added to the game to sipce things up were overlays that add a sense of drama and keys that axctully function as intended so they can be used to open doors.
 
 ## Getting Started
 
