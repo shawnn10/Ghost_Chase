@@ -73,6 +73,7 @@ Survive long enough to escape the haunted office!
 Dynamic overlays: Adding a layer of suspense to enhance the horror atmosphere.
 Key and door mechanics: Keys function as intended, adding strategic depth.
 Ghost AI: The ghost dynamically tracks the player, increasing the challenge.
+Collision detection so the player is forced to stay in the play area while the ghost can go threw walls
 
 ## Help
 
@@ -93,6 +94,11 @@ If you have any questions, suggestions, or feedback, feel free to reach out thro
 
 Thank you for playing "Ghost Chase." Can you escape before the ghost catches you? Best of luck, and enjoy the thrill!
 please also check out my other project from CS50p Get Motivated.
+
+## Legal
+
+for everything related to the licence please read the licence.txt page in the fire or on github
+a quick overview is that the licence is 
 
 ## Fun facts
 
