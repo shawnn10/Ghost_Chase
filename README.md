@@ -98,7 +98,7 @@ please also check out my other project from CS50p Get Motivated.
 ## Legal
 
 for everything related to the licence please read the licence.txt page in the fire or on github
-a quick overview is that the licence is 
+a quick overview is that the licence is Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)
 
 ## Fun facts
 
