@@ -7,14 +7,14 @@ A Love2D Horror Block Game
 
 "Ghost Chase" is my first game developed in Lua using the Love2D framework as part of my CS50x course. This project has been a fantastic learning experience, allowing me to combine programming skills with game design to create something fun and engaging.
 
-The game is a simple yet thrilling single-level horror platformer where players must escape from a ghostly blue block that relentlessly chases them. The goal is to collect four keys scattered throughout the map to unlock doors and secure your escape. If the ghost touches you, the game ends.
+The game is a simple yet thrilling single-level horror game where players must escape from a ghostly blue block that relentlessly chases them. The goal is to collect four keys scattered throughout the map to unlock doors and secure your escape. If the ghost touches you, the game ends.
 
 To enhance the experience, I’ve included a few exciting features:
 
 Dynamic overlays that add a sense of drama and tension as you play.
 Fully functional keys that open doors, making exploration and strategy essential.
 Challenging gameplay mechanics, where careful navigation and quick reflexes are vital for survival.
-While the concept is straightforward, creating "Haunted Office" has taught me a lot about programming logic, event handling, and designing engaging player experiences. I hope you enjoy playing it as much as I enjoyed creating it!
+While the concept is straightforward, creating "Ghost Chase" has taught me a lot about programming logic, event handling, and designing engaging player experiences. I hope you enjoy playing it as much as I enjoyed creating it!
 
 ## Getting Started
 
