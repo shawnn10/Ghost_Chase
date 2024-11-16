@@ -63,9 +63,8 @@ Double-click the ghostchase.exe file to start playing.
 
 Launch the game using your preferred setup method (RAW or .EXE).
 Control your character using the keyboard to navigate the haunted office.
-Move left/right: Arrow keys or A/D.
-Jump: Spacebar.
-Interact: E (for doors and keys).
+Move left/right: Arrow keys currently the only movement option with no othe supported devices.
+Interact: simply walk into them and the games collision system will handle it (for doors and keys).
 Collect all four keys to unlock the exit door while avoiding the ghost.
 Survive long enough to escape the haunted office!
 
@@ -94,3 +93,4 @@ If you have any questions, suggestions, or feedback, feel free to reach out thro
 
 Thank you for playing "Ghost Chase." Can you escape before the ghost catches you? Best of luck, and enjoy the thrill!
 please also check out my other project from CS50p Get Motivated.
+##
