@@ -93,4 +93,8 @@ If you have any questions, suggestions, or feedback, feel free to reach out thro
 
 Thank you for playing "Ghost Chase." Can you escape before the ghost catches you? Best of luck, and enjoy the thrill!
 please also check out my other project from CS50p Get Motivated.
-##
+
+## Fun facts
+
+i originaly planed to call this Hunted Office and if you look around you might still find it somewhere in the readme.
+chat gpt was used to make this.... chat gpt had interesting design choices like placing the player inside a wall the first time we are going to try to test collisions.
